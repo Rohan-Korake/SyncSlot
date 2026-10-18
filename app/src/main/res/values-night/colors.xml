@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material 3 Dark Theme Colors -->
+    <color name="primary">#818CF8</color>
+    <color name="on_primary">#1E1B4B</color>
+    <color name="primary_container">#3730A3</color>
+    <color name="on_primary_container">#E0E7FF</color>
+
+    <color name="secondary">#38BDF8</color>
+    <color name="on_secondary">#082F49</color>
+    <color name="secondary_container">#0369A1</color>
+    <color name="on_secondary_container">#E0F2FE</color>
+
+    <color name="tertiary">#34D399</color>
+    <color name="on_tertiary">#022C22</color>
+    <color name="tertiary_container">#047857</color>
+    <color name="on_tertiary_container">#D1FAE5</color>
+
+    <color name="error">#F87171</color>
+    <color name="on_error">#450A0A</color>
+    <color name="error_container">#7F1D1D</color>
+    <color name="on_error_container">#FEE2E2</color>
+
+    <color name="background">#020617</color>
+    <color name="on_background">#F1F5F9</color>
+
+    <color name="surface">#0F172A</color>
+    <color name="on_surface">#F1F5F9</color>
+    <color name="surface_variant">#1E293B</color>
+    <color name="on_surface_variant">#94A3B8</color>
+
+    <color name="outline">#475569</color>
+    <color name="outline_variant">#334155</color>
+
+    <!-- Legacy / utility -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
